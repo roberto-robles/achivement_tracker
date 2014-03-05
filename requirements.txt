@@ -1,0 +1,4 @@
+Django
+bpython
+python-social-auth
+
